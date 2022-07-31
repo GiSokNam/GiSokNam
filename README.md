@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Oracle DB](https://img.shields.io/badge/-orcle-black?style=flat-square&logo=orcle)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=orcle)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=GiSokNam&count_private=true&show_icons=true&include_all_commits=true)
