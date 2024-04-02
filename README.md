@@ -1,15 +1,20 @@
+<p align='center'>
+  <img height=100 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ngs127" alt="solvedac badge" /><img height=100 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiSokNam&hide=TeX&layout=compact&theme=dark&show_icons=true" alt="GiSokNam github stats" />
+</p>
+
 안녕하세요 방문해주셔서 감사합니다.
+타인의 의견을 수용하는 것에 대해 거리낌이 없는 백엔드 개발자입니다. 항상 배움에 진심으로 임하고 고객과 팀원에게 신뢰받는 개발자로 인정받기 위해 끊임없이 노력하겠습니다.
 
 
 ## ⚡ Technologies
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)
 
+- 자바&스프링
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiSokNam&hide=TeX&layout=compact)
+<kbd><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="70" height="20" /></kbd>
+<kbd><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="70" height="20" /></kbd>
+<kbd><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width="70" height="20" /></kbd>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GiSokNam.GiSokNam)
+- DB
+
+<kbd><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="70" height="20" /></kbd>
+<kbd><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle" width="70" height="20" /></kbd>
