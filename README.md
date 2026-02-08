@@ -1,5 +1,5 @@
 <p align='center'>
-  <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ngs127" alt="solvedac badge" /><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiSokNam&hide=TeX&layout=compact&theme=dark&show_icons=true" alt="GiSokNam github stats" />
+  <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ngs127" alt="solvedac badge" /><img height=150 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GiSokNam&hide=TeX&layout=compact&theme=dark&show_icons=true" alt="GiSokNam github stats" />
 </p>
 
 ## 
